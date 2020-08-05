@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #686de0;
+  background-color: #98c5e9;
   font-family: "Muli", sans-serif;
   display: flex;
   align-items: center;
@@ -38,4 +38,11 @@ h3 {
 }
 
 .btn {
+  background-color: #98c5e9;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+  color: #fff;
+  font-size: 16px;
+  padding: 15px 40px;
 }
