@@ -23,3 +23,19 @@ body {
   width: 800px;
   text-align: center;
 }
+
+h3 {
+  margin: 0;
+  letter-spacing: 2px;
+  opacity: 0.5;
+}
+
+.joke {
+  font-size: 30px;
+  line-height: 40px;
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+.btn {
+}
